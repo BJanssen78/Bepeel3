@@ -29,5 +29,7 @@
         box-shadow: -2px -2px black;
         background-color: yellow;
     }
-  
+    .navi-span{
+        font-size: 0.8em;
+    }
 }
